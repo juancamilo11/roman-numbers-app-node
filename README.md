@@ -19,3 +19,5 @@ Productos entregables:
 - Documento de análisis técnico describiendo de qué forma usó los conceptos adquiridos en teoría de lenguajes para resolver el problema (incluyendo la tabla de transiciones). Este documento NO debe tener más de 10 páginas.
 
 - Manual de usuario para la aplicación entregada.
+
+[Video explicativo en Youtube](https://www.youtube.com/watch?v=Jmbhv20epIo)
